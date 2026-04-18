@@ -1,4 +1,4 @@
-# 🖐️ Gesture-Based Mouse Control using Mediapipe + CNN
+# 🖐️ Gesture-Based Mouse Control 
 
 ## 📌 Project Overview
 
